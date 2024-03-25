@@ -54,4 +54,19 @@ Neste método SendGreeting, estamos:
 #### !!! Não consegui subir o prometheus
 ![image](https://github.com/Livia-Coutinho/M9S7-Ponderada1-ColetaDeMetricas/assets/99189965/d0e8d4b6-0378-47a8-93e3-c09913eb82e8)
 
+-----------------
+Após algumas horas tentando rodar o prometheus:
+- Alterar código prometheus </br>
+![image](https://github.com/Livia-Coutinho/M9S7-Ponderada1-ColetaDeMetricas/assets/99189965/36d00c23-91fc-40a0-9eca-a79c64c6740e) </br>
+- Executar o prometheus </br>
+![image](https://github.com/Livia-Coutinho/M9S7-Ponderada1-ColetaDeMetricas/assets/99189965/d6cef824-cecc-46b8-98db-1e1b32a8f1ba) </br>
+- Localhost:9090 </br>
+- ![image](https://github.com/Livia-Coutinho/M9S7-Ponderada1-ColetaDeMetricas/assets/99189965/9bd77f76-a31a-4d1b-b63c-4a3390490f2f) </br>
+</br>
+</br>
+</br>
+Verificando se o projeto está rodando
+![image](https://github.com/Livia-Coutinho/M9S7-Ponderada1-ColetaDeMetricas/assets/99189965/877dd350-59a6-4943-ab71-697d5fc20953)
+
+
 
